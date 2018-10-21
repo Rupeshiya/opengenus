@@ -1,0 +1,18 @@
+{
+  "name": "opengenus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rupeshiya",
+  "license": "MIT",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "request": "^2.88.0",
+    "urllib": "^2.30.0",
+    "yargs": "^12.0.2"
+  }
+}
